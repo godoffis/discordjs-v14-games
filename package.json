@@ -1,0 +1,23 @@
+{
+  "name": "discordjs0v14-games",
+  "version": "4.3.0",
+  "description": "Discord Games",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test && node ."
+  },
+  "author": "lol",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "html-entities": "^2.3.3",
+    "node-fetch": "^2.6.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godoffis/discordjs-v14-games.git"
+  },
+  "directories": {
+    "src": "src"
+  }
+}
